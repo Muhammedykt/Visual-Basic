@@ -1,0 +1,52 @@
+D:\MYALI\G1\G1NÖ_B\Hafta15\DijitalSaat\DijitalSaat\bin\Debug\net5.0-windows\DijitalSaat.exe
+D:\MYALI\G1\G1NÖ_B\Hafta15\DijitalSaat\DijitalSaat\bin\Debug\net5.0-windows\DijitalSaat.deps.json
+D:\MYALI\G1\G1NÖ_B\Hafta15\DijitalSaat\DijitalSaat\bin\Debug\net5.0-windows\DijitalSaat.runtimeconfig.json
+D:\MYALI\G1\G1NÖ_B\Hafta15\DijitalSaat\DijitalSaat\bin\Debug\net5.0-windows\DijitalSaat.runtimeconfig.dev.json
+D:\MYALI\G1\G1NÖ_B\Hafta15\DijitalSaat\DijitalSaat\bin\Debug\net5.0-windows\DijitalSaat.dll
+D:\MYALI\G1\G1NÖ_B\Hafta15\DijitalSaat\DijitalSaat\bin\Debug\net5.0-windows\ref\DijitalSaat.dll
+D:\MYALI\G1\G1NÖ_B\Hafta15\DijitalSaat\DijitalSaat\bin\Debug\net5.0-windows\DijitalSaat.pdb
+D:\MYALI\G1\G1NÖ_B\Hafta15\DijitalSaat\DijitalSaat\obj\Debug\net5.0-windows\DijitalSaat.Form1.resources
+D:\MYALI\G1\G1NÖ_B\Hafta15\DijitalSaat\DijitalSaat\obj\Debug\net5.0-windows\DijitalSaat.vbproj.GenerateResource.cache
+D:\MYALI\G1\G1NÖ_B\Hafta15\DijitalSaat\DijitalSaat\obj\Debug\net5.0-windows\DijitalSaat.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYALI\G1\G1NÖ_B\Hafta15\DijitalSaat\DijitalSaat\obj\Debug\net5.0-windows\DijitalSaat.AssemblyInfoInputs.cache
+D:\MYALI\G1\G1NÖ_B\Hafta15\DijitalSaat\DijitalSaat\obj\Debug\net5.0-windows\DijitalSaat.AssemblyInfo.vb
+D:\MYALI\G1\G1NÖ_B\Hafta15\DijitalSaat\DijitalSaat\obj\Debug\net5.0-windows\DijitalSaat.vbproj.CoreCompileInputs.cache
+D:\MYALI\G1\G1NÖ_B\Hafta15\DijitalSaat\DijitalSaat\obj\Debug\net5.0-windows\DijitalSaat.dll
+D:\MYALI\G1\G1NÖ_B\Hafta15\DijitalSaat\DijitalSaat\obj\Debug\net5.0-windows\ref\DijitalSaat.dll
+D:\MYALI\G1\G1NÖ_B\Hafta15\DijitalSaat\DijitalSaat\obj\Debug\net5.0-windows\DijitalSaat.pdb
+D:\MYALI\G1\G1NÖ_B\Hafta15\DijitalSaat\DijitalSaat\obj\Debug\net5.0-windows\DijitalSaat.genruntimeconfig.cache
+D:\MYALI\G1\G1NÖ_B\Hafta15\DijitalSaat\DijitalSaat\bin\Debug\net5.0-windows\Font\DigitalDream.ttf
+D:\MYALI\G1\G1NÖ_B\Hafta15\DijitalSaat\DijitalSaat\bin\Debug\net5.0-windows\Font\DigitaldreamFat.ttf
+D:\MYALI\G1\G1NÖ_B\Hafta15\DijitalSaat\DijitalSaat\bin\Debug\net5.0-windows\Font\DigitaldreamFatNarrow.ttf
+D:\MYALI\G1\G1NÖ_B\Hafta15\DijitalSaat\DijitalSaat\bin\Debug\net5.0-windows\Font\DigitaldreamFatSkew.ttf
+D:\MYALI\G1\G1NÖ_B\Hafta15\DijitalSaat\DijitalSaat\bin\Debug\net5.0-windows\Font\DigitaldreamFatSkewNarrow.ttf
+D:\MYALI\G1\G1NÖ_B\Hafta15\DijitalSaat\DijitalSaat\bin\Debug\net5.0-windows\Font\DigitaldreamNarrow.ttf
+D:\MYALI\G1\G1NÖ_B\Hafta15\DijitalSaat\DijitalSaat\bin\Debug\net5.0-windows\Font\DigitaldreamSkew.ttf
+D:\MYALI\G1\G1NÖ_B\Hafta15\DijitalSaat\DijitalSaat\bin\Debug\net5.0-windows\Font\DigitaldreamSkewNarrow.ttf
+D:\MYALI\G1\G1NÖ_B\Hafta15\DijitalSaat\DijitalSaat\obj\Debug\net5.0-windows\DijitalSaat.vbprojAssemblyReference.cache
+C:\Users\muham\Desktop\Görsel Programlama\Hafta15.rar-20220526142344899\Hafta15\DijitalSaat\DijitalSaat\bin\Debug\net5.0-windows\Font\DigitalDream.ttf
+C:\Users\muham\Desktop\Görsel Programlama\Hafta15.rar-20220526142344899\Hafta15\DijitalSaat\DijitalSaat\bin\Debug\net5.0-windows\Font\DigitaldreamFat.ttf
+C:\Users\muham\Desktop\Görsel Programlama\Hafta15.rar-20220526142344899\Hafta15\DijitalSaat\DijitalSaat\bin\Debug\net5.0-windows\Font\DigitaldreamFatNarrow.ttf
+C:\Users\muham\Desktop\Görsel Programlama\Hafta15.rar-20220526142344899\Hafta15\DijitalSaat\DijitalSaat\bin\Debug\net5.0-windows\Font\DigitaldreamFatSkew.ttf
+C:\Users\muham\Desktop\Görsel Programlama\Hafta15.rar-20220526142344899\Hafta15\DijitalSaat\DijitalSaat\bin\Debug\net5.0-windows\Font\DigitaldreamFatSkewNarrow.ttf
+C:\Users\muham\Desktop\Görsel Programlama\Hafta15.rar-20220526142344899\Hafta15\DijitalSaat\DijitalSaat\bin\Debug\net5.0-windows\Font\DigitaldreamNarrow.ttf
+C:\Users\muham\Desktop\Görsel Programlama\Hafta15.rar-20220526142344899\Hafta15\DijitalSaat\DijitalSaat\bin\Debug\net5.0-windows\Font\DigitaldreamSkew.ttf
+C:\Users\muham\Desktop\Görsel Programlama\Hafta15.rar-20220526142344899\Hafta15\DijitalSaat\DijitalSaat\bin\Debug\net5.0-windows\Font\DigitaldreamSkewNarrow.ttf
+C:\Users\muham\Desktop\Görsel Programlama\Hafta15.rar-20220526142344899\Hafta15\DijitalSaat\DijitalSaat\bin\Debug\net5.0-windows\DijitalSaat.exe
+C:\Users\muham\Desktop\Görsel Programlama\Hafta15.rar-20220526142344899\Hafta15\DijitalSaat\DijitalSaat\bin\Debug\net5.0-windows\DijitalSaat.deps.json
+C:\Users\muham\Desktop\Görsel Programlama\Hafta15.rar-20220526142344899\Hafta15\DijitalSaat\DijitalSaat\bin\Debug\net5.0-windows\DijitalSaat.runtimeconfig.json
+C:\Users\muham\Desktop\Görsel Programlama\Hafta15.rar-20220526142344899\Hafta15\DijitalSaat\DijitalSaat\bin\Debug\net5.0-windows\DijitalSaat.runtimeconfig.dev.json
+C:\Users\muham\Desktop\Görsel Programlama\Hafta15.rar-20220526142344899\Hafta15\DijitalSaat\DijitalSaat\bin\Debug\net5.0-windows\DijitalSaat.dll
+C:\Users\muham\Desktop\Görsel Programlama\Hafta15.rar-20220526142344899\Hafta15\DijitalSaat\DijitalSaat\bin\Debug\net5.0-windows\DijitalSaat.pdb
+C:\Users\muham\Desktop\Görsel Programlama\Hafta15.rar-20220526142344899\Hafta15\DijitalSaat\DijitalSaat\obj\Debug\net5.0-windows\DijitalSaat.vbproj.AssemblyReference.cache
+C:\Users\muham\Desktop\Görsel Programlama\Hafta15.rar-20220526142344899\Hafta15\DijitalSaat\DijitalSaat\obj\Debug\net5.0-windows\DijitalSaat.Form1.resources
+C:\Users\muham\Desktop\Görsel Programlama\Hafta15.rar-20220526142344899\Hafta15\DijitalSaat\DijitalSaat\obj\Debug\net5.0-windows\DijitalSaat.vbproj.GenerateResource.cache
+C:\Users\muham\Desktop\Görsel Programlama\Hafta15.rar-20220526142344899\Hafta15\DijitalSaat\DijitalSaat\obj\Debug\net5.0-windows\DijitalSaat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\Desktop\Görsel Programlama\Hafta15.rar-20220526142344899\Hafta15\DijitalSaat\DijitalSaat\obj\Debug\net5.0-windows\DijitalSaat.AssemblyInfoInputs.cache
+C:\Users\muham\Desktop\Görsel Programlama\Hafta15.rar-20220526142344899\Hafta15\DijitalSaat\DijitalSaat\obj\Debug\net5.0-windows\DijitalSaat.AssemblyInfo.vb
+C:\Users\muham\Desktop\Görsel Programlama\Hafta15.rar-20220526142344899\Hafta15\DijitalSaat\DijitalSaat\obj\Debug\net5.0-windows\DijitalSaat.vbproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\Görsel Programlama\Hafta15.rar-20220526142344899\Hafta15\DijitalSaat\DijitalSaat\obj\Debug\net5.0-windows\DijitalSaat.dll
+C:\Users\muham\Desktop\Görsel Programlama\Hafta15.rar-20220526142344899\Hafta15\DijitalSaat\DijitalSaat\obj\Debug\net5.0-windows\refint\DijitalSaat.dll
+C:\Users\muham\Desktop\Görsel Programlama\Hafta15.rar-20220526142344899\Hafta15\DijitalSaat\DijitalSaat\obj\Debug\net5.0-windows\DijitalSaat.pdb
+C:\Users\muham\Desktop\Görsel Programlama\Hafta15.rar-20220526142344899\Hafta15\DijitalSaat\DijitalSaat\obj\Debug\net5.0-windows\DijitalSaat.genruntimeconfig.cache
+C:\Users\muham\Desktop\Görsel Programlama\Hafta15.rar-20220526142344899\Hafta15\DijitalSaat\DijitalSaat\obj\Debug\net5.0-windows\ref\DijitalSaat.dll
