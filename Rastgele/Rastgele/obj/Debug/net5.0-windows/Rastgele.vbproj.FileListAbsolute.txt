@@ -1,0 +1,36 @@
+D:\MYALI\G1\G1NÖ_B\Hafta11\Rastgele\Rastgele\bin\Debug\net5.0-windows\Rastgele.exe
+D:\MYALI\G1\G1NÖ_B\Hafta11\Rastgele\Rastgele\bin\Debug\net5.0-windows\Rastgele.deps.json
+D:\MYALI\G1\G1NÖ_B\Hafta11\Rastgele\Rastgele\bin\Debug\net5.0-windows\Rastgele.runtimeconfig.json
+D:\MYALI\G1\G1NÖ_B\Hafta11\Rastgele\Rastgele\bin\Debug\net5.0-windows\Rastgele.runtimeconfig.dev.json
+D:\MYALI\G1\G1NÖ_B\Hafta11\Rastgele\Rastgele\bin\Debug\net5.0-windows\Rastgele.dll
+D:\MYALI\G1\G1NÖ_B\Hafta11\Rastgele\Rastgele\bin\Debug\net5.0-windows\ref\Rastgele.dll
+D:\MYALI\G1\G1NÖ_B\Hafta11\Rastgele\Rastgele\bin\Debug\net5.0-windows\Rastgele.pdb
+D:\MYALI\G1\G1NÖ_B\Hafta11\Rastgele\Rastgele\obj\Debug\net5.0-windows\Rastgele.vbprojAssemblyReference.cache
+D:\MYALI\G1\G1NÖ_B\Hafta11\Rastgele\Rastgele\obj\Debug\net5.0-windows\Rastgele.Form1.resources
+D:\MYALI\G1\G1NÖ_B\Hafta11\Rastgele\Rastgele\obj\Debug\net5.0-windows\Rastgele.vbproj.GenerateResource.cache
+D:\MYALI\G1\G1NÖ_B\Hafta11\Rastgele\Rastgele\obj\Debug\net5.0-windows\Rastgele.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYALI\G1\G1NÖ_B\Hafta11\Rastgele\Rastgele\obj\Debug\net5.0-windows\Rastgele.AssemblyInfoInputs.cache
+D:\MYALI\G1\G1NÖ_B\Hafta11\Rastgele\Rastgele\obj\Debug\net5.0-windows\Rastgele.AssemblyInfo.vb
+D:\MYALI\G1\G1NÖ_B\Hafta11\Rastgele\Rastgele\obj\Debug\net5.0-windows\Rastgele.vbproj.CoreCompileInputs.cache
+D:\MYALI\G1\G1NÖ_B\Hafta11\Rastgele\Rastgele\obj\Debug\net5.0-windows\Rastgele.dll
+D:\MYALI\G1\G1NÖ_B\Hafta11\Rastgele\Rastgele\obj\Debug\net5.0-windows\ref\Rastgele.dll
+D:\MYALI\G1\G1NÖ_B\Hafta11\Rastgele\Rastgele\obj\Debug\net5.0-windows\Rastgele.pdb
+D:\MYALI\G1\G1NÖ_B\Hafta11\Rastgele\Rastgele\obj\Debug\net5.0-windows\Rastgele.genruntimeconfig.cache
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\Rastgele\Rastgele\bin\Debug\net5.0-windows\Rastgele.exe
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\Rastgele\Rastgele\bin\Debug\net5.0-windows\Rastgele.deps.json
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\Rastgele\Rastgele\bin\Debug\net5.0-windows\Rastgele.runtimeconfig.json
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\Rastgele\Rastgele\bin\Debug\net5.0-windows\Rastgele.runtimeconfig.dev.json
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\Rastgele\Rastgele\bin\Debug\net5.0-windows\Rastgele.dll
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\Rastgele\Rastgele\bin\Debug\net5.0-windows\Rastgele.pdb
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\Rastgele\Rastgele\obj\Debug\net5.0-windows\Rastgele.vbproj.AssemblyReference.cache
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\Rastgele\Rastgele\obj\Debug\net5.0-windows\Rastgele.Form1.resources
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\Rastgele\Rastgele\obj\Debug\net5.0-windows\Rastgele.vbproj.GenerateResource.cache
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\Rastgele\Rastgele\obj\Debug\net5.0-windows\Rastgele.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\Rastgele\Rastgele\obj\Debug\net5.0-windows\Rastgele.AssemblyInfoInputs.cache
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\Rastgele\Rastgele\obj\Debug\net5.0-windows\Rastgele.AssemblyInfo.vb
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\Rastgele\Rastgele\obj\Debug\net5.0-windows\Rastgele.vbproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\Rastgele\Rastgele\obj\Debug\net5.0-windows\Rastgele.dll
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\Rastgele\Rastgele\obj\Debug\net5.0-windows\refint\Rastgele.dll
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\Rastgele\Rastgele\obj\Debug\net5.0-windows\Rastgele.pdb
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\Rastgele\Rastgele\obj\Debug\net5.0-windows\Rastgele.genruntimeconfig.cache
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\Rastgele\Rastgele\obj\Debug\net5.0-windows\ref\Rastgele.dll

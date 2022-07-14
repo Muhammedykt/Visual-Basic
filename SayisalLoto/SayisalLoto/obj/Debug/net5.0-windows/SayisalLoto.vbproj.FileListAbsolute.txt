@@ -1,0 +1,36 @@
+D:\MYALI\G1\G1NÖ_B\Hafta11\SayisalLoto\SayisalLoto\bin\Debug\net5.0-windows\SayisalLoto.exe
+D:\MYALI\G1\G1NÖ_B\Hafta11\SayisalLoto\SayisalLoto\bin\Debug\net5.0-windows\SayisalLoto.deps.json
+D:\MYALI\G1\G1NÖ_B\Hafta11\SayisalLoto\SayisalLoto\bin\Debug\net5.0-windows\SayisalLoto.runtimeconfig.json
+D:\MYALI\G1\G1NÖ_B\Hafta11\SayisalLoto\SayisalLoto\bin\Debug\net5.0-windows\SayisalLoto.runtimeconfig.dev.json
+D:\MYALI\G1\G1NÖ_B\Hafta11\SayisalLoto\SayisalLoto\bin\Debug\net5.0-windows\SayisalLoto.dll
+D:\MYALI\G1\G1NÖ_B\Hafta11\SayisalLoto\SayisalLoto\bin\Debug\net5.0-windows\ref\SayisalLoto.dll
+D:\MYALI\G1\G1NÖ_B\Hafta11\SayisalLoto\SayisalLoto\bin\Debug\net5.0-windows\SayisalLoto.pdb
+D:\MYALI\G1\G1NÖ_B\Hafta11\SayisalLoto\SayisalLoto\obj\Debug\net5.0-windows\SayisalLoto.vbprojAssemblyReference.cache
+D:\MYALI\G1\G1NÖ_B\Hafta11\SayisalLoto\SayisalLoto\obj\Debug\net5.0-windows\SayisalLoto.Form1.resources
+D:\MYALI\G1\G1NÖ_B\Hafta11\SayisalLoto\SayisalLoto\obj\Debug\net5.0-windows\SayisalLoto.vbproj.GenerateResource.cache
+D:\MYALI\G1\G1NÖ_B\Hafta11\SayisalLoto\SayisalLoto\obj\Debug\net5.0-windows\SayisalLoto.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYALI\G1\G1NÖ_B\Hafta11\SayisalLoto\SayisalLoto\obj\Debug\net5.0-windows\SayisalLoto.AssemblyInfoInputs.cache
+D:\MYALI\G1\G1NÖ_B\Hafta11\SayisalLoto\SayisalLoto\obj\Debug\net5.0-windows\SayisalLoto.AssemblyInfo.vb
+D:\MYALI\G1\G1NÖ_B\Hafta11\SayisalLoto\SayisalLoto\obj\Debug\net5.0-windows\SayisalLoto.vbproj.CoreCompileInputs.cache
+D:\MYALI\G1\G1NÖ_B\Hafta11\SayisalLoto\SayisalLoto\obj\Debug\net5.0-windows\SayisalLoto.dll
+D:\MYALI\G1\G1NÖ_B\Hafta11\SayisalLoto\SayisalLoto\obj\Debug\net5.0-windows\ref\SayisalLoto.dll
+D:\MYALI\G1\G1NÖ_B\Hafta11\SayisalLoto\SayisalLoto\obj\Debug\net5.0-windows\SayisalLoto.pdb
+D:\MYALI\G1\G1NÖ_B\Hafta11\SayisalLoto\SayisalLoto\obj\Debug\net5.0-windows\SayisalLoto.genruntimeconfig.cache
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\SayisalLoto\SayisalLoto\bin\Debug\net5.0-windows\SayisalLoto.exe
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\SayisalLoto\SayisalLoto\bin\Debug\net5.0-windows\SayisalLoto.deps.json
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\SayisalLoto\SayisalLoto\bin\Debug\net5.0-windows\SayisalLoto.runtimeconfig.json
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\SayisalLoto\SayisalLoto\bin\Debug\net5.0-windows\SayisalLoto.runtimeconfig.dev.json
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\SayisalLoto\SayisalLoto\bin\Debug\net5.0-windows\SayisalLoto.dll
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\SayisalLoto\SayisalLoto\bin\Debug\net5.0-windows\SayisalLoto.pdb
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\SayisalLoto\SayisalLoto\obj\Debug\net5.0-windows\SayisalLoto.vbproj.AssemblyReference.cache
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\SayisalLoto\SayisalLoto\obj\Debug\net5.0-windows\SayisalLoto.Form1.resources
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\SayisalLoto\SayisalLoto\obj\Debug\net5.0-windows\SayisalLoto.vbproj.GenerateResource.cache
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\SayisalLoto\SayisalLoto\obj\Debug\net5.0-windows\SayisalLoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\SayisalLoto\SayisalLoto\obj\Debug\net5.0-windows\SayisalLoto.AssemblyInfoInputs.cache
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\SayisalLoto\SayisalLoto\obj\Debug\net5.0-windows\SayisalLoto.AssemblyInfo.vb
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\SayisalLoto\SayisalLoto\obj\Debug\net5.0-windows\SayisalLoto.vbproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\SayisalLoto\SayisalLoto\obj\Debug\net5.0-windows\SayisalLoto.dll
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\SayisalLoto\SayisalLoto\obj\Debug\net5.0-windows\refint\SayisalLoto.dll
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\SayisalLoto\SayisalLoto\obj\Debug\net5.0-windows\SayisalLoto.pdb
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\SayisalLoto\SayisalLoto\obj\Debug\net5.0-windows\SayisalLoto.genruntimeconfig.cache
+C:\Users\muham\Desktop\Görsel Programlama\Hafta11.rar-20220428140547123\Hafta11\SayisalLoto\SayisalLoto\obj\Debug\net5.0-windows\ref\SayisalLoto.dll
